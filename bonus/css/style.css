@@ -5,12 +5,20 @@ img {
 
 
 /* DEBUG */
-[class="container"] {
+/* [class="container"] {
     border: 1px solid black;
     min-height: 100px;
 }
 
-[class="col"] {
+[class="col-"] {
     border: 1px solid black;
     min-height: 100px;
+} */
+
+
+/* RESPONSIVE */
+@media screen and (min-width: 768px) {
+    .col-md {
+      width: 20%;
+    }
 }
