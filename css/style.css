@@ -2,3 +2,9 @@
 img {
     max-width: 100%;
 }
+
+/* HEADER */
+header {
+    text-align: center;
+    margin: 2rem;
+}
