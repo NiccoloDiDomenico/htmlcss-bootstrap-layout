@@ -1,0 +1,16 @@
+/* RESET */
+img {
+    max-width: 100%;
+}
+
+
+/* DEBUG */
+[class="container"] {
+    border: 1px solid black;
+    min-height: 100px;
+}
+
+[class="col"] {
+    border: 1px solid black;
+    min-height: 100px;
+}
